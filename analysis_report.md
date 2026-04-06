@@ -37,4 +37,3 @@ Refer to section 2 for a summary of correlations among key variables. The top po
 4) Explore potential hidden patterns using data mining techniques on categorical variables like Customer Name, Region, City, Category, Sub-Category, Payment Mode, Payemnt status for further insights.
 5) Validate overall analysis by conducting tests of hypothesis or machine learning models to ensure high data quality and confidence in findings.
 
-## 8. Appendix — Raw Stats Summary (see section 2 for details about means, standard deviations, skewness, and kurtosis values)
